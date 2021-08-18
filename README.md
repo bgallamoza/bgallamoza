@@ -22,25 +22,25 @@ I'm a data-loving undergraduate at the University of Delaware majoring in Comput
 
 ## TECHNICAL SKILLS
 
-Programming Languages: 
+**Programming Languages: **
 - Python, R, Java, C, JavaScript
   
-Modeling:
+**Modeling:**
 - Supervised Learning Classifiers: Decision Trees and Random Forest Classifiers, Logistic Regression, SVM
 - Supervised Learning Regressors: Linear, Lasso, Ridge, Random Forest and Gradient Boosting Regression
 - Scikit-Learn
 
-Database Languages: Familiar: SQL
+**Database Languages:** Familiar: SQL
 
-Other Languages: Familiar: HTML,  CSS
+**Other Languages:** Familiar: HTML,  CSS
 
-Web Frameworks: Flask
+**Web Frameworks:** Flask
 
-Data Visualization: Jupyter Notebook, Pandas, Matplotlib, Seaborn
+**Data Visualization:** Jupyter Notebook, Pandas, Matplotlib, Seaborn
 
-Software: Microsoft Office (Word, Powerpoint, Excel), SPSS
+**Software:** Microsoft Office (Word, Powerpoint, Excel), SPSS
 
-Version Control Systems: Git
+V**ersion Control Systems:** Git
 
 
 <!---
