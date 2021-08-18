@@ -1,6 +1,6 @@
 # Hi! I'm Brennan Gallamoza! Welcome to my Page!
 
-I'm a data-loving undergraduate at the University of Delaware majoring in Computer Science and minoring in Biology. My future goal is to make a career in data science!
+I'm a data-loving undergraduate at the University of Delaware majoring in Computer Science and minoring in Biology. My future goal is to make a career in data science! Currently, I am working on personal machine learning projects to develop my skills to become an effective data scientist.
 
 ## PROJECTS
 
