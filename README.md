@@ -22,7 +22,7 @@ I'm a data-loving undergraduate at the University of Delaware majoring in Comput
 
 ## TECHNICAL SKILLS
 
-**Programming Languages: **
+**Programming Languages:**
 - Python, R, Java, C, JavaScript
   
 **Modeling:**
