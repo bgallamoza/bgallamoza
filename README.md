@@ -4,17 +4,17 @@ I'm a data-loving undergraduate at the University of Delaware majoring in Comput
 
 ## PROJECTS
 
-**MyAnimeList Rating Prediction**
+### **MyAnimeList Rating Prediction**
 
-https://github.com/bgallamoza/MAL_Rating_Regression
+#### https://github.com/bgallamoza/MAL_Rating_Regression
 
 - Project created to predict average user ratings of TV anime from the MyAnimeList (MAL) website
 - Trained several supervised regression models with Sklearn using features obtained or engineered from MAL API data
 - Deployed model on an Amazon Web Service (AWS) EC2 instance using a Flask REST API and HTML/Javascript/CSS user interface. Server interacts with a SQLite database to store and retrieve predictions.
 
-**Crack/Cocaine Usage Binary Classification**
+### **Crack/Cocaine Usage Binary Classification**
 
-https://github.com/bgallamoza/Cocaine_Usage_Classification
+#### https://github.com/bgallamoza/Cocaine_Usage_Classification
 
 - Project created to predict if someone has used crack/cocaine before using 2015-2019 NSDUH survey data
 - Trained several supervised classification models with roughly 89% accuracy using demographic and previous substance usage data preprocessed in R and Python
