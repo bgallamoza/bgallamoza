@@ -19,7 +19,7 @@ I'm a data-loving undergraduate at the University of Delaware majoring in Comput
 - Project created to predict if someone has used crack/cocaine before using 2015-2019 NSDUH survey data
 - Trained several supervised classification models with roughly 89% accuracy using demographic and previous substance usage data preprocessed in R and Python
 - Built a web application with a Flask REST API and a user interface built in HTML, JavaScript, and CSS that allows users to obtain a prediction given their inputted data
-
+<!---
 ## TECHNICAL SKILLS
 
 **Programming Languages:**
@@ -40,8 +40,8 @@ I'm a data-loving undergraduate at the University of Delaware majoring in Comput
 
 **Software:** Microsoft Office (Word, Powerpoint, Excel), SPSS
 
-V**ersion Control Systems:** Git
-
+**Version Control Systems:** Git
+--->
 
 <!---
 bgallamoza/bgallamoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
